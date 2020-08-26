@@ -1,3 +1,9 @@
+Result of using mern-stack-template
+
+## Requirements
+Node.js and React... you can `npm install` all node dependencies after making the the new repo with the mern-stack-template template button and cloning that to local using
+`git clone your-repo-https-link` to the destination you want it. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## About the Project
 
