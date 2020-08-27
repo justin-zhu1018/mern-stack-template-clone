@@ -21,7 +21,7 @@ Below is the code I used to install them all.<br />
 `npm install --save bootstrap`<br />
 `npm install --save reactstrap react react-dom`<br /><br />
 
-Alternatively, you can try to clone this project and run `npm install`. Apparently that should work too. <br />
+<b>Alternatively</b>, you can clone this project and in your local terminal in your project, run `npm install`. This way to download all node dependencies that I used worked for me. Please to restart your VS Code or whatever IDE so that concurrently colors can be applied.<br />
 
 ## Available Scripts
 
